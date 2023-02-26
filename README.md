@@ -27,14 +27,18 @@ A little bit Zack Brady, his history, and what he's done in the industry.
 ## Introduction
 
 
-
 ## Architecture
 
 
 ## Configuration
 
 
-## Extras :)
+## Extras
 
+Currently there is a bug within Fleet ([rancher/fleet#759](https://github.com/rancher/fleet/issues/759)). Please use this fix:
 
-*WIP WIP WIP*
+```
+kubectl patch ClusterGroup -n fleet-local default --type=json -p='[{"op": "remove", "path": "/spec/selector/matchLabels/name"}]'
+```
+
+WIP WIP WIP
