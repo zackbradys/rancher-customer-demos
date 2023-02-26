@@ -7,4 +7,5 @@ spec:
   branch: main
   repo: https://github.com/zackbradys/rancher-customer-demos
   targetNamespace: flask
-  paths: flask
+  paths: 
+  - flask
