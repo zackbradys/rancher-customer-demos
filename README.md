@@ -4,8 +4,6 @@ author: Zack Brady - Field Engineer
 contact: zack.brady@rancherfederal.com
 ---
 
-![rgs-aws-banner](/images/rgs-banner-rounded.png)
-
 # Rancher Demo Applications with Rancher Fleet
 
 ### Table of Contents
