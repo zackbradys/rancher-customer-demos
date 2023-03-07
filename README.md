@@ -21,13 +21,6 @@ A little bit Zack Brady, his history, and what he's done in the industry.
 - Built and Exited a Digital Firm
 - Active Volunteer Firefighter/EMT
 
-
-## Introduction
-
-
-## Architecture
-
-
 ## Configuration
 
 ```bash
