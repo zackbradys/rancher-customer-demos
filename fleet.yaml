@@ -1,11 +1,11 @@
 kind: GitRepo
 apiVersion: fleet.cattle.io/v1alpha1
 metadata:
-  name: rancher-demo
+  name: rancher-demo-app
   namespace: fleet-local
 spec:
   branch: main
   repo: https://github.com/zackbradys/rancher-customer-demos
   targetNamespace: rancher-demo
   paths: 
-  - rancher-demo
+  - charts/rancher-demo-app
