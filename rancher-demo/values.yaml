@@ -14,7 +14,6 @@ app:
     title: "Rancher Federal Demo"
     pets: "cows"  # available pets include 'cows' and 'chameleons' and possibly 'cowmeleons'
     color: "black"  # container background color (any color name from the CSS pallete)
-    show_version: "version"
 
 service:
   type: ClusterIP
