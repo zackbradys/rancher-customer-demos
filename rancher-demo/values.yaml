@@ -26,7 +26,7 @@ ingress:
     # kubernetes.io/ingress.class: nginx
     # kubernetes.io/tls-acme: "true"
   paths: []
-  host: sslip.io
+  host: 7310hargrove.court
   tls: []
   #  - secretName: chart-example-tls
   #    hosts:
