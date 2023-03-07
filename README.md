@@ -8,7 +8,6 @@ contact: zack.brady@rancherfederal.com
 
 ### Table of Contents
 * [About Me](#about-me)
-* [Introduction](#introduction)
 * [Configuration](#configuration)
 * [Extras](#extras)
 
