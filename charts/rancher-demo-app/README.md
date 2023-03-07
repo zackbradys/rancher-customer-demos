@@ -26,8 +26,8 @@ The following table lists the configurable parameters of the Rancher-demo-app ch
 | Parameter | Default | Description |
 | --------- | ------- | ----------- |
 | `replicaCount` | `6` |  |
-| `image.repository` | `"bashofmann/rancher-demo"` |  |
-| `image.tag` | `""` |  |
+| `image.repository` | `"zackbradys/rancher-demo-app"` |  |
+| `image.tag` | `"1.0.0"` |  |
 | `image.pullPolicy` | `"IfNotPresent"` |  |
 | `imagePullSecrets` | `[]` |  |
 | `nameOverride` | `""` |  |
